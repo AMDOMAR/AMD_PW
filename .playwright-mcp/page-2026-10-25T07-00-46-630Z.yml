@@ -1,0 +1,42 @@
+- generic [ref=f10e1]:
+  - generic [ref=f10e3]:
+    - generic [ref=f10e4]:
+      - generic [aria-hidden] [ref=f10e6]:
+        - generic [ref=f10e7]: Loading
+        - progressbar [aria-hidden] [ref=f10e8]
+      - main [ref=f10e15]:
+        - generic [ref=f10e20]:
+          - heading "Sign in" [level=1] [ref=f10e21]
+          - generic [ref=f10e22]: to continue to Gmail
+        - generic [ref=f10e25]:
+          - generic [ref=f10e30]:
+            - generic [ref=f10e35]:
+              - textbox "Email or phone" [active] [ref=f10e36]
+              - generic [aria-hidden]: Email or phone
+            - button "Forgot email?" [ref=f10e40] [cursor=pointer]
+          - generic [ref=f10e43]:
+            - text: Not your computer? Use Guest mode to sign in privately.
+            - link "Learn more about using Guest mode (external, opens in a new window)" [ref=f10e44] [cursor=pointer]:
+              - /url: https://support.google.com/chrome/answer/6130773?hl=en-US
+              - text: Learn more about using Guest mode
+        - generic [ref=f10e46]:
+          - button "Next" [ref=f10e50]
+          - button "Create account" [ref=f10e58]
+    - contentinfo [ref=f10e65]:
+      - combobox "Change language English (United States)" [ref=f10e69] [cursor=pointer]:
+        - generic [aria-hidden]:
+          - generic: English (United States)
+      - list [ref=f10e71]:
+        - listitem [ref=f10e72]:
+          - link "Open Google Account Help Center (external, opens in a new window)" [ref=f10e73] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=en-US&p=account_iph
+            - text: Help
+        - listitem [ref=f10e74]:
+          - link "Privacy Policy (external, opens in a new window)" [ref=f10e75] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=IN&hl=en-US&privacy=true
+            - text: Privacy
+        - listitem [ref=f10e76]:
+          - link "Google Terms of Service (external, opens in a new window)" [ref=f10e77] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=IN&hl=en-US
+            - text: Terms
+  - iframe [ref=f10e78]

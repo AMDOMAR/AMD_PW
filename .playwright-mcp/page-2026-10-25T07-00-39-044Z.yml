@@ -1,0 +1,127 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - generic [aria-hidden] [ref=f5e6]:
+        - generic [ref=f5e7]: Chargement en cours…
+        - progressbar [aria-hidden] [ref=f5e8]
+      - main [ref=f5e15]:
+        - generic [ref=f5e20]:
+          - heading "Connexion" [level=1] [ref=f5e21]
+          - generic [ref=f5e22]: Accéder à Gmail
+        - generic [ref=f5e25]:
+          - generic [ref=f5e30]:
+            - generic [ref=f5e35]:
+              - textbox "Adresse e-mail ou téléphone" [ref=f5e36]
+              - generic [aria-hidden]: Adresse e-mail ou téléphone
+            - button "Adresse e-mail oubliée ?" [ref=f5e40] [cursor=pointer]
+          - generic [ref=f5e43]:
+            - text: Ce n'est pas votre ordinateur ? Utilisez le mode Invité pour vous connecter en mode privé.
+            - link "En savoir plus sur l'utilisation du mode Invité (externe, s'ouvre dans une nouvelle fenêtre)" [ref=f5e44] [cursor=pointer]:
+              - /url: https://support.google.com/chrome/answer/6130773?hl=fr
+              - text: En savoir plus sur l'utilisation du mode Invité
+        - generic [ref=f5e46]:
+          - button "Suivant" [ref=f5e50]
+          - button "Créer un compte" [ref=f5e59]
+    - contentinfo [ref=f5e66]:
+      - generic [ref=f5e69]:
+        - combobox "Changer de langue Français (France)" [expanded] [ref=f5e70] [cursor=pointer]:
+          - generic [aria-hidden]:
+            - generic: Français (France)
+        - listbox "Changer de langue" [ref=f5e81]:
+          - option "Afrikaans" [ref=f5e82] [cursor=pointer]
+          - option "azərbaycan" [ref=f5e83] [cursor=pointer]
+          - option "bosanski" [ref=f5e84] [cursor=pointer]
+          - option "català" [ref=f5e85] [cursor=pointer]
+          - option "Čeština" [ref=f5e86] [cursor=pointer]
+          - option "Cymraeg" [ref=f5e87] [cursor=pointer]
+          - option "Dansk" [ref=f5e88] [cursor=pointer]
+          - option "Deutsch" [ref=f5e89] [cursor=pointer]
+          - option "eesti" [ref=f5e90] [cursor=pointer]
+          - option "English (United Kingdom)" [ref=f5e91] [cursor=pointer]
+          - option "English (United States)" [ref=f5e92] [cursor=pointer]
+          - option "Español (España)" [ref=f5e93] [cursor=pointer]
+          - option "Español (Latinoamérica)" [ref=f5e94] [cursor=pointer]
+          - option "euskara" [ref=f5e95] [cursor=pointer]
+          - option "Filipino" [ref=f5e96] [cursor=pointer]
+          - option "Français (Canada)" [ref=f5e97] [cursor=pointer]
+          - option "Français (France)" [active] [selected] [ref=f5e98] [cursor=pointer]
+          - option "Gaeilge" [ref=f5e99] [cursor=pointer]
+          - option "galego" [ref=f5e100] [cursor=pointer]
+          - option "Hrvatski" [ref=f5e101] [cursor=pointer]
+          - option "Indonesia" [ref=f5e102] [cursor=pointer]
+          - option "isiZulu" [ref=f5e103] [cursor=pointer]
+          - option "íslenska" [ref=f5e104] [cursor=pointer]
+          - option "Italiano" [ref=f5e105] [cursor=pointer]
+          - option "Kiswahili" [ref=f5e106] [cursor=pointer]
+          - option "latviešu" [ref=f5e107] [cursor=pointer]
+          - option "lietuvių" [ref=f5e108] [cursor=pointer]
+          - option "magyar" [ref=f5e109] [cursor=pointer]
+          - option "Melayu" [ref=f5e110] [cursor=pointer]
+          - option "Nederlands" [ref=f5e111] [cursor=pointer]
+          - option "norsk" [ref=f5e112] [cursor=pointer]
+          - option "o‘zbek" [ref=f5e113] [cursor=pointer]
+          - option "polski" [ref=f5e114] [cursor=pointer]
+          - option "Português (Brasil)" [ref=f5e115] [cursor=pointer]
+          - option "Português (Portugal)" [ref=f5e116] [cursor=pointer]
+          - option "română" [ref=f5e117] [cursor=pointer]
+          - option "shqip" [ref=f5e118] [cursor=pointer]
+          - option "Slovenčina" [ref=f5e119] [cursor=pointer]
+          - option "slovenščina" [ref=f5e120] [cursor=pointer]
+          - option "srpski (latinica)" [ref=f5e121] [cursor=pointer]
+          - option "Suomi" [ref=f5e122] [cursor=pointer]
+          - option "Svenska" [ref=f5e123] [cursor=pointer]
+          - option "Tiếng Việt" [ref=f5e124] [cursor=pointer]
+          - option "Türkçe" [ref=f5e125] [cursor=pointer]
+          - option "Ελληνικά" [ref=f5e126] [cursor=pointer]
+          - option "беларуская" [ref=f5e127] [cursor=pointer]
+          - option "български" [ref=f5e128] [cursor=pointer]
+          - option "кыргызча" [ref=f5e129] [cursor=pointer]
+          - option "қазақ тілі" [ref=f5e130] [cursor=pointer]
+          - option "македонски" [ref=f5e131] [cursor=pointer]
+          - option "монгол" [ref=f5e132] [cursor=pointer]
+          - option "Русский" [ref=f5e133] [cursor=pointer]
+          - option "српски (ћирилица)" [ref=f5e134] [cursor=pointer]
+          - option "Українська" [ref=f5e135] [cursor=pointer]
+          - option "ქართული" [ref=f5e136] [cursor=pointer]
+          - option "հայերեն" [ref=f5e137] [cursor=pointer]
+          - option "‫עברית‬‎" [ref=f5e138] [cursor=pointer]
+          - option "‫اردو‬‎" [ref=f5e139] [cursor=pointer]
+          - option "‫العربية‬‎" [ref=f5e140] [cursor=pointer]
+          - option "‫فارسی‬‎" [ref=f5e141] [cursor=pointer]
+          - option "አማርኛ" [ref=f5e142] [cursor=pointer]
+          - option "नेपाली" [ref=f5e143] [cursor=pointer]
+          - option "मराठी" [ref=f5e144] [cursor=pointer]
+          - option "हिन्दी" [ref=f5e145] [cursor=pointer]
+          - option "অসমীয়া" [ref=f5e146] [cursor=pointer]
+          - option "বাংলা" [ref=f5e147] [cursor=pointer]
+          - option "ਪੰਜਾਬੀ" [ref=f5e148] [cursor=pointer]
+          - option "ગુજરાતી" [ref=f5e149] [cursor=pointer]
+          - option "ଓଡ଼ିଆ" [ref=f5e150] [cursor=pointer]
+          - option "தமிழ்" [ref=f5e151] [cursor=pointer]
+          - option "తెలుగు" [ref=f5e152] [cursor=pointer]
+          - option "ಕನ್ನಡ" [ref=f5e153] [cursor=pointer]
+          - option "മലയാളം" [ref=f5e154] [cursor=pointer]
+          - option "සිංහල" [ref=f5e155] [cursor=pointer]
+          - option "ไทย" [ref=f5e156] [cursor=pointer]
+          - option "ລາວ" [ref=f5e157] [cursor=pointer]
+          - option "မြန်မာ" [ref=f5e158] [cursor=pointer]
+          - option "ខ្មែរ" [ref=f5e159] [cursor=pointer]
+          - option "한국어" [ref=f5e160] [cursor=pointer]
+          - option "中文（香港）" [ref=f5e161] [cursor=pointer]
+          - option "日本語" [ref=f5e162] [cursor=pointer]
+          - option "简体中文" [ref=f5e163] [cursor=pointer]
+          - option "繁體中文" [ref=f5e164] [cursor=pointer]
+      - list [ref=f5e72]:
+        - listitem [ref=f5e73]:
+          - link "Ouvrir le centre d'aide Compte Google (externe, s'ouvre dans une nouvelle fenêtre)" [ref=f5e74] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=fr&p=account_iph
+            - text: Aide
+        - listitem [ref=f5e75]:
+          - link "Règles de confidentialité (externe, s'ouvre dans une nouvelle fenêtre)" [ref=f5e76] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=IN&hl=fr&privacy=true
+            - text: Confidentialité
+        - listitem [ref=f5e77]:
+          - link "Conditions d'utilisation de Google (lien externe, s'ouvre dans une nouvelle fenêtre)" [ref=f5e78] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=IN&hl=fr
+            - text: Conditions
+  - iframe [ref=f5e79]
